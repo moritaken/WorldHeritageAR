@@ -2,7 +2,8 @@
 世界遺産を鑑賞できるAR教材
 
 # Requirements
-* SteamVR 1.2.3
-* VRTK 3.3.0
-* Photon(PUN2)
-* Unity 2018.3.14f1 以前
+* Xcode 11.2.1
+* iPad（第六世代）
+* iOS11以上
+* Unity 2019.2.15f1
+* ARkit使用のためiOSのみ対応
