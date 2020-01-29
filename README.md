@@ -1,7 +1,7 @@
 # WorldHeritageAR
 世界遺産を鑑賞できるAR教材
 
-# Requirements
+# 開発環境
 * Xcode 11.2.1
 * iPad（第6世代）
 * iOS11以上
